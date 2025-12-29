@@ -104,7 +104,7 @@ pip install numpy pandas scikit-learn seaborn matplotlib
 
 ## Author
 
-Sourcee Deepth Howlader
+Souradeep Howlader
 
 ## License
 
